@@ -1,0 +1,44 @@
+body
+{background-color: lime}
+
+.miam2
+{
+	border: 4px solid darkred;
+	width: 20%;
+	margin: auto;
+	padding: 3%;
+	background-color: hotpink;
+	color: whitesmoke;
+	border-radius: 10%;
+}
+.miam1
+{
+	border: 2px solid darkred;
+	height: 75px;
+	width: 75px;
+	margin: auto;
+	padding: 10%;
+	background-color: hotpink;
+	color: whitesmoke;
+	border-radius: 50%
+}
+.miam2
+{
+	width: 400px ;
+
+	background-color: #0074d9 ;
+	color: red;
+	border: none;
+	border-radius:5px ;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease ;
+}
+.miam2:hover {
+	color:darkred;
+	background-color: yellowgreen;
+	width: 500px ;
+}
+
