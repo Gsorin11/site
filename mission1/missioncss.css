@@ -1,0 +1,52 @@
+.b1
+{
+	width: 150px ;
+	background-color: #FDFEFE ;
+	color: black;
+	border: none;
+	border-radius:5px ;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease ;
+}
+.b1:hover {
+	color:white;
+	background-color: black;
+}
+.b2
+{
+	width: 150px ;
+	background-color: #FDFEFE ;
+	color: black;
+	border: none;
+	border-radius:5px ;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease ;
+}
+.b2:hover {
+	color:white;
+	background-color: black;
+}
+
+legend
+{
+	color: blue;
+	text-align: center;
+}
+.c1
+{
+	color: darkred;
+}
+.c2
+{
+	color: green;
+}
+label
+{
+	color: darkgray;
+}
