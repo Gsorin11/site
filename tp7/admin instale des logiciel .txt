@@ -1,0 +1,9 @@
+admin instale des logiciel 
+utilisateur standart
+
+paquets:sources.list qui est conecter apt-get update 
+fusion inventory glpi 
+explosion de la conso de data dans le monde 
+1/les advantage et les inco des data centeur 
+2/les raison de l'explositon de la consomation des data 
+3/les problematique naiscante et les solution .
